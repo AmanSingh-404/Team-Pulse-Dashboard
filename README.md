@@ -1,6 +1,6 @@
 # TeamPulse - Productivity Dashboard
 
-> **Live Demo:** [Insert your Netlify Link Here]
+> **Live Demo:** [https://team-pulse-dashboard-three.vercel.app/]
 
 A comprehensive dashboard application built to manage team statuses and task assignments. This project was developed to demonstrate proficiency in **React, Redux Toolkit, and Modern UI implementation**.
 
